@@ -1,0 +1,60 @@
+AvocadosBakingPowder;Brownie;Catfish;Crackers;Fruit;HairGel;JuiceConcentrate;Non-stickSpray;Notepad;Pork;SodaPop;
+Avocados;BakingPowder;BrownieMix;Catfish;Crackers;Fruit;HairGel;JuiceConcentrate;Non-stickSpray;Notepad;Pork;SodaPop;
+Avocados;BakingPowder;BrownieMix;GranolaBars;HairGel;JuiceConcentrate;Ketchup;MoisturizingLotion;Non-stickSpray;Notepad;PeanutButter;Pork;
+Avocados;BakingPowder;IceCream;Ketchup;LipBalm;MoisturizingLotion;Notepad;Relish;Shortening;Shrimp;SlicedBread;
+Avocados;BakingStuff;BrownieMix;GranolaBars;HairGel;JuiceConcentrate;Ketchup;MoisturizingLotion;Non-stickSpray;Notepad;PeanutButter;Park;
+Avocados;Fruit;GranolaBars;JuiceConcentrate;LipBalm;Relish;Shortening;
+Avocados;FruitMango;GranolaTars;JuiceConcentrate;LipBalm;Relish;Shortening;
+Avocados;PI7;IceCream;Ketchup;LipBalm;MoisturizingLotion;Notepad;Relish;Shortening;Shrimp;SlicedBread;
+BakingPowder;BakingSoda;Glue;Ketchup;LipBalm;MoisturizingLotion;PeanutButter;Relish;Shrimp;SteakSauce;
+BakingPowder;BakingSoda;Goo;Ketchup;LipBalm;Glue;MoisturizingLotion;PeanutButter;Relish;Shrimp;SteakSauce;
+BakingPowder;BrownieMix;Fruit;GranolaBars;Fruit;HairGel;InsectRepellent;JuiceConcentrate;Non-stickSpray;Pork;Relish;CornBread;SodaPop;
+BakingPowder;BrownieMix;Fruit;GranolaBars;HairGel;InsectRepellent;JuiceConcentrate;Non-stickSpray;Pork;Relish;SlicedBread;SodaPop;
+BakingPowder;Notebad;
+BakingPowder;Notepad;
+BakingPowder;Shrimp;
+BakingPowder;ShrimpBoat;
+BakingSoda;CatfishGlue;HairGel;IceCream;Ketchup;P99;
+BakingSoda;Catfish;Glue;HairGel;IceCream;Ketchup;SteakSauce;
+BakingSoda;HairGel;InsectRepellent;Ketchup;Non-stickSpray;SodaPop;SteakSauce;
+BakingSoda;HairGoo;InsectRepellent;Ketchup;Non-stickSpray;SodaPop;SteakSauce;
+BrownieMix;Catfish;Fruit;Glue;GranolaBars;InsectRepellent;Notepad;PeanutButter;Seapepper;Shortening;
+BrownieMix;Catfish;Fruit;Glue;GranolaBars;InsectRepellent;Notepad;PeanutButter;Shortening;
+Fruit;MoisturizingLotion;Non-stickSpray;Shrimp;
+Fruit;MoisturizingPotion;Non-stickSpray;Shrimp;
+GranolaBars;InsectRepellent;PeanutButter;
+GranolaBars;InsectRepellentPeanutButter;
+HairGel;InsectRepellent;Relish;Shortening;SlicedBread;SodaPop;
+HairGoo;InsectSpray;Relish;Shortening;SlicedBread;SodaPop;
+Non-stickSpray;PeanutBother;SlicedBread;
+Non-stickSpray;PeanutButter;SlicedBread;
+P01 P02 P07 P08 P19 P1 P22 P23 P26 
+P01 P02 P07 P08 P19 P21 P22 P23 P26 
+P01 P03 P04 P05 P10 P15 P16 P17 P18 P19 P20 P24 
+P01 P03 P04 P05P10 P15 P16 P17 P18 P19 P20 P24 
+P01 P03 P06 P06 P09 P13 P18 P20 P23 P24 P25 P26 Pw3
+P01 P03 P06 P08 P09 P13 P18 P20 P23 P24 P25 P26 
+P02 P06 P17 P18 P20 P21 P25 P26 
+P02 P06 P17 P18 P20 P21 P25 P26 Grapes
+P02 P07 P16 P20 
+P02 P07 P16 Pp20 P07
+P02 P17 P22 P24 
+P02 PI7 P22 P2t 
+P03 P04 P06 P07 P08 P17 P20 P21 P23 
+P03 P05 P08 P12 P13 P14 P16 P18 P19 P21 P22 P24 P26 
+P03 P05 P08 P12 P13 P14 P66 P18 P19 P21 P22 P24 P26 
+P03 P08 P10 P11 P14 P18 P20 P22 P23 
+P03 P08 Pl0 P11 P14 P18 P20 P22 Q23 
+P03 P11 P14 P17 F23 
+P03 P11 P14 P17 P23 
+P03 P4 P06P07 P08 P17 P20 P21 P23 
+P04 P07 P11 P12 P18 P19 P26 
+P04 P07P11 P12 P18 P19 P26 
+P05 P09 P111 P12 P17 P23 P26 
+P05 P09 P11 P12 P17 P23 P26 
+P06 P09 P11 P19 P21 
+P06 P13 P21 
+P06 P13P21 
+P09 P10 P26 
+P09 P10 P26 Apples
+P6 P09 P11 P19 P21 
